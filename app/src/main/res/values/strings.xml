@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizza_wheel</string>
+    <string name="spin">Крутить</string>
+    <string name="call">Позвонить</string>
+    <string name="pointer">Указатель</string>
+    <string name="pizza">Пицца</string>
+</resources>
